@@ -1,0 +1,3 @@
+mvn exec:java -Dexec.mainClass=com.dsproj.SNServer -Dexec.args="3 3 6"
+mvn exec:java -Dexec.mainClass=com.dsproj.NodeServer -Dexec.args="7900"
+mvn exec:java -Dexec.mainClass=com.dsproj.Client -Dexec.args="3 6"

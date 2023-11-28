@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": ["src/main/java/com/dsproj/", "src/main/java/com/dsproj/gen-java"],
+
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/jars/libthrift-0.19.0.jar",
+        "src/jars/slf4j-api-2.0.9.jar"
+        
+    ]
+}
